@@ -27,9 +27,9 @@
 
 ## 📈 GitHub Stats
 
-![Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangvinh&show_icons=true&theme=tokyonight)
+![Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangvinhlee&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangvinh&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangvinhlee&layout=compact&theme=tokyonight)
 
 ---
 
