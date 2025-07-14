@@ -1,44 +1,87 @@
-# Hi, I'm Quang Vinh 👋
+# 🎶 Harmonia: The Modern Music Experience
 
-🎓 Software Developer | 🎵 Music App Builder | 🚀 Always Learning
-
----
-
-## 🧰 Tech Stack
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![NestJS](https://img.shields.io/badge/-NestJS-e0234e?&logo=nestjs)
-![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?&logo=graphql)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?&logo=typescript)
-![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=go)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker)
+Welcome to **Harmonia** — a next-generation music streaming web app designed for seamless discovery, beautiful playlists, and a truly immersive listening experience.
 
 ---
 
-## 🧑‍💻 Projects
+## 🌟 Key Features
 
-- 🎧 **Music App** – Fullstack app using SoundCloud API, NestJS, GraphQL, and Next.js  
-  [🔗 GitHub Repo](https://github.com/your-repo-link)
-
-- 📦 **E-commerce Site** – React + Node.js + MongoDB project (built from tutorial)  
-  [🔗 GitHub Repo](https://github.com/your-repo-link)
-
----
-
-## 📈 GitHub Stats
-
-![Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangvinhlee&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangvinhlee&layout=compact&theme=tokyonight)
+- 🔍 Universal search for tracks, artists, and albums
+- ❤️ Like, save, and organize your favorite music
+- 🎧 Custom playlists and smart queueing
+- 🚀 Lightning-fast, responsive UI
+- 🌓 Dark mode & accessibility-first design
+- 🔒 Secure authentication and user profiles
+- 📈 Trending charts and recommendations
 
 ---
 
-## 📫 Get in Touch
+## 🛠️ Built With
 
-- Email: `your@email.com`
-- LinkedIn: [your-link](https://www.linkedin.com/in/yourprofile)
-- Website: [yourwebsite.com](https://yourwebsite.com)
+- **Next.js** (App Router, SSR, API routes)
+- **TypeScript** for type safety
+- **Tailwind CSS** for rapid, modern styling
+- **GraphQL** for flexible data fetching
+- **PostgreSQL** & **Redis** for robust data and caching
+- **Docker** for easy local development
 
 ---
 
-_Thanks for visiting my profile!_ 🌟
+## ⚡ Quickstart
+
+1. **Install dependencies:**
+
+   ```bash
+   pnpm install
+   # or
+   yarn install
+   # or
+   npm install
+   ```
+
+2. **Start the development server:**
+
+   ```bash
+   pnpm dev
+   # or
+   yarn dev
+   # or
+   npm run dev
+   ```
+
+3. **Open your browser:**
+   Visit [http://localhost:3000](http://localhost:3000) to explore Harmonia.
+
+---
+
+## 📁 Directory Overview
+
+- `app/` — Main Next.js app (pages, components, styles)
+- `public/` — Static assets
+- `components/` — Shared React components
+- `query/`, `mutations/` — GraphQL hooks and API logic
+- `store/` — State management
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions, ideas, and feedback! Please open an issue or submit a pull request to help make Harmonia even better.
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+## ✨ Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Portfolio](https://yourwebsite.com)
+- [Email](mailto:your@email.com)
+
+---
+
+_Thanks for checking out Harmonia! If you enjoy the app, consider starring ⭐️ the repo or sharing your thoughts._
