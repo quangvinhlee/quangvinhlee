@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Quang Vinh Lee (quangvinhlee)
+# 👋 Hi, I'm Quang Vinh (quangvinhlee)
 
 ### 💻 Fullstack Developer | 🎶 Music Enthusiast | 🌱 Lifelong Learner
 
@@ -19,10 +19,10 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?logo=graphql&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 ---
 
@@ -46,9 +46,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 📧 Email: your@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinh-quang-le-57a9542b6/)
+- 📧 Email: quangvinhle@outlook.com.au
 
 ---
 
