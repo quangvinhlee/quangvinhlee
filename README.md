@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Quang Vinh (quangvinhlee)
 
-### 💻 Fullstack Developer | 🎶 Music Enthusiast | 🌱 Lifelong Learner
+###  🎶 Music Enthusiast | 🌱 Lifelong Learner
 
 ---
 
